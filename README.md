@@ -1,4 +1,3 @@
-
 # genpasswd
 
 Yet another command-line password generator.  Prints a few generated passwords in different formats
